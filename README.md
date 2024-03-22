@@ -1,3 +1,14 @@
+****************Center align text from both side properly**********
+<style>
+        .listtype {
+            text-align: justify;
+        }
+
+        h4,p {
+            text-align: justify;
+        }
+</style>
+
 # Java-script
 Java script code
 //*******************Code for input only numeric value and . (period)******************************
